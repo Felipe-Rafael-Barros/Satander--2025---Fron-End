@@ -1,0 +1,79 @@
+Apresentação do curso
+    Primeiros computadores:
+        1a geração
+        - Harvad Mark 1 1994
+        - Colossus 1946
+        - ENIAC 1946
+        2a Transistores
+        3a Circuito Integrado
+        4a Dias de hoje
+
+    Como Surgiu a Web?
+        1) Telégrafo
+        2) 1958 cabo de ponta  ponta pelo oceano
+        3) Guerra Fria 1950(INIAC)
+ 
+    primeira pagia web: http://info.cern.ch/
+
+    Grandes nomes:
+        - Grace Murray hopper
+            - Flo-Matic(Base do COBOL)
+            - Termo criado "bug"
+        - Joseph Carl Robnett Licklider
+            - Teorizou sobre a rede "galática" de computadores
+        - Robert E. Kahn
+            - ARPANet
+            - Apresentou o e-mail
+        - Tim Berners-Lee  
+            - Pai na internet
+            - Inventor do WWW
+            - Popularizou o HTTP e HTML
+        - Marc Andreessen
+            - Re inventor do navegador
+            - Tornou o navegador "imagável" com recusos gráficos
+            - Nescape Navigator
+
+        - Bill Gates
+            - Fundador da Microsoft
+            - MC criou a Internet Explorer
+            - Tornou acessível para todos o computador, e com isso o acesso à internet.
+        - Steve Jobs
+            - Fundador da Apple
+            - Cocorrente direta da Microsoft
+            - Popularizou o smartphone que conhecemos hoje
+
+Cliente
+    - Quando consome a informação de algum lugar
+    - HTML, CSS, JavaScript, Imagens
+    - Design Responsivo ou Responsividade
+    - Boas práticas e Testes(Compartibilidade entre navegadores)
+    w3schools.com
+
+Servers
+    - Aruqivos, Segurança(Firewall), Streaming, E-mail, Web
+    - Softwares
+        - Sistema Operaciona
+        - Monitoramento
+        - Servidores Web
+    - Hardwares
+        - Armazenamento(disco rígidos, SSDs)
+        - Memória
+        - Processadores
+    - Hospedagem
+        - Planos mensais com diferentes estruturas
+    - FTP (File Transfer Protocol)
+
+Linguagens de Programação
+    - Populares
+        - JavaScript
+        - Python
+        - Java
+        - PHP
+        - C#
+    - Serve-Side
+        - Linguagens que são executadas no servidor
+        - Cada uma tem sua característica
+    - Client-Side
+        - JavaScript e TypeScript
+
+        Aula: https://https//hermes.dio.me/files/assets/ffa00632-36bf-4320-a96d-7f0fb30ac9f2.pptx
