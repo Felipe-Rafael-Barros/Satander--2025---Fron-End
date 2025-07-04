@@ -1,0 +1,24 @@
+Estrutura básica HTML
+index.html (Padrão do html)
+
+
+algumas tags:
+h1 - titulo um  
+h2 - Subtitulo
+p - Parágrafo
+blockqoute - citações
+strong
+u
+
+site com listas de tags HTML:
+W3Schools
+
+
+Listas Ord e Não orgenadas HTML:
+
+- ol com li - Lista Ordenada
+- ul com li - lista Não Ordenadas
+
+links
+
+<a href="http:..." title " clique aqui e confira" tarfet="_blank"> Dio, me</a> - ancora ou seja, ele liga o texto a um endereço
