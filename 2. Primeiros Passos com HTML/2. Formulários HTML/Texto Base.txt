@@ -1,0 +1,14 @@
+Formulários e conceitos básico de tag para Formulários
+
+Objetivo: Rever algumas tags HTML e entender como funcionam os formulários de um website e como uma informação enviada através de formulário chega até o servidor.
+
+
+Tag  <form> :
+Tag  <input>
+    - type="text" -> Campo texto,
+Tag  <checkbox> e <radio>
+Tag  <button>
+Tag  <select>
+Tag  <textarea>
+
+

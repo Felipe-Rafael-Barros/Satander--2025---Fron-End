@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1> Formulários de Cadastro</h1>
+
+    <form name="signup" method="POST" target="_blank" action="https://meusite.com.br/signup"> <!-- Method post mais seguro para senha do que o GET
+        Tem o autocomplet="off" que não pode salvar a senha
+        onsubmit="alert('Enviei o formulario');"-->
+        Nome: <input type="text" name="name"><br>
+        Idade: <input type="number" name="age"><br>
+        Senha: <input type="password" name="password"><br>
+        <button type="submit">Enviar</button>
+    </form>
+
+    <label for="">Digite aqui:</label> <input type="text" name="Digite"><br>
+    <label for=""> Numero:</label> <input type="number" name="Numero" min="0" max="100" step="5"><br>
+    <label for="">Button:</label> <input type="button" value="Enviar"><button>Enviar</button><br>
+    <label for="">Range:</label> <input type="range" vulue="Range" min="0" max="100"><br>
+    <label for="">Coloração:</label> <input type="color" name="Cor"><br>
+    <label for="">E-mail:</label> <input type="e-mail"><br>
+    <label for="">Url:</label> <input type="url"><br>
+    <label for="">Subit:</label> <input type="submit"><br>
+    <label for="">Data:</label> <input type="date"><br>
+    <label for="">Semana:</label> <input type="week"><br>
+    <label for="">Mes:</label> <input type="month"><br>
+    <label for="">Checkbox:</label> <input type="checkbox"><input type="checkbox"><br>
+    <label for="">Radio:</label> <input type="radio" name="aceita"><input type="radio" name="aceita"><br>
+    <label for="">Arquivos:</label> <input type="file" multiple><br><!-- Multiple para enviar mais de 1 arquivo-->
+    <label for="">Mes:</label> <input type="search"><br>
+
+    <form method="post">
+        <h3> Você selecionou Pizza de Calabresa</h3>
+        <p>Quais Opcionais você deseja?</p>
+        <input type="checkbox" name="opcional[]"  value="queijo"> + queijo<br>
+        <input type="checkbox" name="opcional[]"  value="calabresa"> + calabresa<br>
+        <input type="checkbox" name="opcional[]"  value="cebola"> + cebola<br>
+        <input type="checkbox" name="opcional[]"  value="azeitona"> + azeitona<br>
+        <p>Borda recheada?</p>
+        <input type="radio" name="borda"  value="sim"> Sim <br>
+        <input type="radio" name="borda"  value="nao"> Não <br>
+        <p>Bebida</p>
+        <input type="radio" name="bebida"  value="suco"> Suco<br>
+        <input type="radio" name="bebida"  value="refrigerante"> Refrigerante<br>
+        <input type="radio" name="bebida"  value="agua"> Água<br>
+        <input type="radio" name="bebida"  value="nenhum"> Nenhum<br>
+    </form>
+
+</body>
+</html>
