@@ -4,11 +4,18 @@ Objetivo: Rever algumas tags HTML e entender como funcionam os formulários de u
 
 
 Tag  <form> :
+    - Cria um setor de formulário
 Tag  <input>
     - type="text" -> Campo texto,
-Tag  <checkbox> e <radio>
+Tag  <checkbox> e <radio> (checkbox marcas mais de uma opção, radio escolhe uma das opções)
 Tag  <button>
+    - type:"button" -> Botão normal
+    - type:"reset"  -> reset o campo forme se tem algo preechido
+    - type:"submit" -> Enviar o comando
 Tag  <select>
+    - lista pre-definida do que você quer que o usuário escolha
 Tag  <textarea>
+    - <textarea name="message" id=""></textarea>
+    - Campo de texto redimensionavel(tamanho)
 
 
