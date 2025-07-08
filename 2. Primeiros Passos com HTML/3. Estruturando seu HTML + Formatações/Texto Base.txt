@@ -1,0 +1,29 @@
+Percur-so:
+    Formatando textos: <strong>(negrito, ênfase ao texto), <i>(itálico), <b>(negrito), <u>(underline embaixo do texto), <blockquote>(espaçamento), <mark> (marca texto), <sub> (menor e abaixo), <sup> (menor e acima)
+
+    Formatando textos: <font>
+    <font color="red" face="Arial"> Olá mundo</font>  Mas é mais recomendado fazer em CSS
+
+
+    Tag <div> e <span>
+    Criando a "planta" do nosso site
+    div é um sistema de estruturação em blocos/contêiners(Display Block)
+    span é uma tag que cliar um bloc no que foi escrito e não ocupa uma bloco horizontal todo
+
+
+    Tag <fieldsets>
+    Faz um retângulo no bloco e pode especificar uma legenda
+
+
+    Tag <embeds>
+    Não Usa mais!!!
+
+
+    Tag <iframes>
+    Abrir um conteudo de outro site no meu site
+    Tem que ficar atento a segurança do uso da mesma
+
+
+    Resenha> sobre cores
+
+Objetivo Geral é entender como formatar alguns textos pensando também em acessibilidade. Estruturar melhor seu HTML, preparando ele para aplicar o CSS. Conhecer mais sobre como funcionam cores no HTML.
