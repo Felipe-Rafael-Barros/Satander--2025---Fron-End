@@ -1,0 +1,20 @@
+Objetivo Geral:
+
+Saber tudo sobre mídias no HTML. Aprender a colocar imagens, vídos, músicas, para enriquecer a experiência do usuário no seu site
+
+Tag <img>
+    - <img title="Descrição quando passar o mouse" src="fonte imag" alt="Descrição"> <!-- Imagem -->
+    - <svg>
+
+Tag audio
+    - <audio controls>
+        <source src="caminho audio"/>
+        Seu navegador não tem suporte para este áudio
+      </audio>
+
+Tag video
+
+Tag track
+    Legendas, usado em videos
+
+Tag iframe
