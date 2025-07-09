@@ -1,0 +1,23 @@
+Criação básica de tabela
+<talbe>
+
+    <tr>
+        <th> ... </th>
+        <th> ... </th>
+    </tr>
+    <tr>
+        <td> ... </td>
+        <td> ... </td>
+    </tr>
+
+</table>
+
+Temos Tag td e th:
+
+th informa a celular que é o cabeçario e também 
+
+tbody-cabeçalho
+thead-corpo
+tfoot-rodapé
+
+caption é a decrição da tabela
