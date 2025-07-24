@@ -33,3 +33,25 @@ class Pessoa{
     }
 }
 
+// Arrays (Listas de conteudos)
+
+const alunos = ["João","Vitor","Maria"];
+console.log(alunos);
+
+console.log(alunos[0]);
+console.log(alunos[1]);
+console.log(alunos[2]);
+
+alunos.push("Renan"); //Add
+alunos.push(10);
+console.log(alunos);
+
+alunos[3] = "Vinícius";
+
+alunos.pop();
+console.log(alunos);
+
+alunos.shift()///Remove o primeiro elemento
+
+alunos.length(); // Tamanho da lista
+
