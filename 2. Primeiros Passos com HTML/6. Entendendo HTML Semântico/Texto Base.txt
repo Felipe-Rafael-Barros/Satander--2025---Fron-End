@@ -1,0 +1,7 @@
+Virar um expert em semântica no HTML. Saber mais sobre a importância da acessibilidade no HTML. Conhecer as novas tags estruturais e criar um site do jeito que tem que ser.
+
+Semântica - HTML
+
+O que é?
+    - disciplina da linguística que se ocupa da significação das palavras e expressões linguísticas bem como das relações de sentido que estas estabelecem entre si.
+    
