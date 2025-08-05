@@ -1,0 +1,5 @@
+Site para ver designs:
+https://dribbble.com/
+
+JS vai dar o comportamento para nosso site, deixando o site mais dinâmico e interativo.
+
