@@ -7,3 +7,13 @@ Link da usada(Use na head):
 
 Para Font:
 https://fonts.google.com/
+
+Media Queries CSS:
+https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+
+Usado:
+@media screen and (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
