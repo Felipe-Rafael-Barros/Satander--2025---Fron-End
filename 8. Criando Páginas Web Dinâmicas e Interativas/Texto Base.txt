@@ -17,3 +17,47 @@ Usado:
     background-color: blue;
   }
 }
+
+API:
+Servidor que está nos servindo dados
+
+O Navegador faz uma requisição e recebe um json com todos os dados
+
+
+Para montar um requisitção http precisos:
+
+1: URL: https://pokeapi.co/api/v2/pokemon
+
+2: ${IP = Endereço}//${path = caminho de identificação do recurso}
+
+
+IP -> pokeapi.co caso local 127.0.0.1:3000
+
+path -> /api/v2/pokemon
+
+Request Method: GET l POST l PUT l DELET l
+
+Padrões REST
+
+exemplos:
+https://pokeapi.co/api/v2/pokemon?offset=0&limit=2
+
+?offset=0&limit= -> Querie String
+?type=grass&limit=2
+
+
+Request Headers
+    Configuração da nossa API
+
+Request Body {
+    "name" : "exemplo"
+}  
+
+Request Response
+
+Status code> 200 OK
+
+Response Headers
+
+Response Body
+
